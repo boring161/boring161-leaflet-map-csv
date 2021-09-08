@@ -1,10 +1,46 @@
-Group,Title,Image,Description,Address,Latitude,Longitude,Found Address,Match Quality,Source
-a,Trinity College,https://www.edx.org/sites/default/files/trinity1.jpg,"Not in the link <a href=""http://www.trincoll.edu"" target=""_blank"">view website</a> more not in the link","300 Summit St, Hartford CT 06106",41.745167,-72.69263,"300 SUMMIT ST, HARTFORD, CT, 06106",Exact,US Census
-a,Wesleyan University,https://upload.wikimedia.org/wikipedia/commons/4/41/You_are_here_-_T-shirt.jpg,"<a href=""http://wesleyan.edu"" target=""_blank"">view website</a>",45 Wyllys Ave Middletown CT 06459,41.55709,-72.65691,"45 WYLLYS AVE, MIDDLETOWN, CT, 06459",Exact,US Census
-a,Connecticut College,https://upload.wikimedia.org/wikipedia/commons/4/41/You_are_here_-_T-shirt.jpg,"<a href=""http://conncoll.edu"" target=""_blank"">view website</a>","270 Mohegan Ave, New London CT",41.381435,-72.10469,"270 MOHEGAN AVE PKWY, NEW LONDON, CT, 06320",Match,US Census
-a,Yale University,https://upload.wikimedia.org/wikipedia/commons/4/41/You_are_here_-_T-shirt.jpg,"<a href=""http://yale.edu"" target=""_blank"">view website</a>",149 Elm St New Haven CT,41.309155,-72.92635,"149 ELM ST, NEW HAVEN, CT, 06511",Match,US Census
-a,University of Connecticut-Storrs,https://upload.wikimedia.org/wikipedia/commons/4/41/You_are_here_-_T-shirt.jpg,"<a href=""http://uconn.edu"" target=""_blank"">view website</a>","369 Fairfield Way, Storrs CT 06269",41.80665,-72.25352,"369 FAIRFIELD RD, STORRS, CT, 06269",Match,US Census
-a,Capital Community College,https://upload.wikimedia.org/wikipedia/commons/4/41/You_are_here_-_T-shirt.jpg,"<a href=""http://capitalcc.edu"" target=""_blank"">view website</a>",950 Main St Hartford CT,41.69861,-72.72414,"950 MAIN ST, HARTFORD, CT, 06111",Match,US Census
-b,Dinosaur State Park,https://upload.wikimedia.org/wikipedia/commons/4/41/You_are_here_-_T-shirt.jpg,"<a href=""www.dinosaurstatepark.org/"" target=""_blank"">view website</a>",400 West St Rock Hill CT 06067,41.652546,-72.65743,"400 WEST ST, ROCKY HILL, CT, 06067",Match,US Census
-b,Hammonasset State Park,https://upload.wikimedia.org/wikipedia/commons/4/41/You_are_here_-_T-shirt.jpg,"<a href=""www.ct.gov/deep/hammonasset"" target=""_blank"">view website</a>","1288 Boston Post Road, Madison CT 06443",41.273247,-72.56934,"1288 BOSTON POST RD, MADISON, CT, 06443",Match,US Census
-c,State Capitol Building,https://upload.wikimedia.org/wikipedia/commons/4/41/You_are_here_-_T-shirt.jpg,State government office,"210 Capitol Ave, Hartford CT 06106",41.762848,-72.68245,"210 CAPITOL AVE, HARTFORD, CT, 06106",Exact,US Census
+Titel,Adresse,Latitude,Longitude
+Rosshandlung Isidor Bloch ,Emmendingen Karl-Friedrich-StraÃŸe 65,7.841123,48.123328
+ Kolonialwarenhandlung Max Bloch ,Emmendingen Karl-Friedrich-StraÃŸe 36,7.844636,48.122922
+ Rechtsanwalt Emil DreifuÃŸ ,Emmendingen Karl-Friedrich-StraÃŸe 21,7.846229,48.122139
+ TextilgeschÃ¤ft Theodor Geismar ,Emmendingen Karl-Friedrich-StraÃŸe 53,7.843353,48.122883
+ Haushaltwaren Hermann Falk ,Emmendingen Theodor-Ludwig-StraÃŸe 11,7.850903,48.121518
+ Metzgerei Leopold Goldschmidt ,Emmendingen Karl-Friedrich-StraÃŸe 17,7.846484,48.122094
+ Viehhandlung Max Goldschmidt ,Emmendingen Karl-Friedrich-StraÃŸe 38,7.844483,48.122924
+" Viehhandlung Albert GÃ¼nzburger und Gasthaus ""Ochsenâ€œ spÃ¤ter Zigarrenfabrik GÃ¼nzburger & Co. ",Emmendingen Karl-Friedrich-StraÃŸe 40,7.844271,48.122987
+ Viehhandlung Hermann GÃ¼nzburger ,Emmendingen Karl-Friedrich-StraÃŸe 47,7.844099,48.122736
+ Weinhandlung Hugo GÃ¼nzburger ,Emmendingen Goetheplatz 2,,
+ Viehhandlung Israel Philipp GÃ¼nzburger ,Emmendingen Karl-Friedrich-StraÃŸe 9,7.846927,48.121975
+ Viehhandlung Max GÃ¼nzburger ,Emmendingen BrunnenstraÃŸe 16,7.840979,48.124281
+ Sackfabrik GÃ¼nzburger & Haas ,Emmendingen SteinstraÃŸe 2,7.845749,48.124056
+" Gasthaus ""Zum Schwanenâ€œ Inh. Wwe. Rosa Haas ",Emmendingen Karl-Friedrich-StraÃŸe 19,7.846302,48.122002
+ Branntwein-Brennerei Max Heilbrunner ,Emmendingen MoltkestraÃŸe 8,7.96345,48.094585
+ Branntwein-Brennerei LikÃ¶rfabrik und Weinhandlung Heilbrunner & Co. ,Emmendingen Franz-Josef-Baumgartner-StraÃŸe 12,7.852128,48.117259
+ Branntwein-Brennerei LikÃ¶rfabrik und Weinhandlung Heilbronner & Moch ,Emmendingen Franz-Josef-Baumgartner-StraÃŸe 13,7.859267,48.11407
+ WeiÃŸwarengeschÃ¤ft Geschw. Kahn ,Emmendingen LammstraÃŸe 12,7.848811,48.121162
+ Lumpensortieranstalt und Altwaren Gebr. Kahn ,Emmendingen Haselmatten 7,7.857906,48.116263
+ Kaufhaus S. Knopf ,Emmendingen Theodor-Ludwig-StraÃŸe 1,7.850532,48.121242
+ Schuhvertrieb A. LÃ¶wenthal ,Emmendingen HochburgerstraÃŸe 39,7.856476,48.119941
+ Kaufhaus M. Nachmann ,Emmendingen kirchstraÃŸe 2a ,7.849241,48.120971
+ Arzt Dr. Julius Neuburger ,Emmendingen Karl-Friedrich-StraÃŸe 24,7.845603,48.122727
+ Viehhandlung Hermann Pickard ,Emmendingen Mundinger StraÃŸe 6 ,7.843825,48.125218
+ Viehhandlung Simon Pickard ,Emmendingen Karl-Friedrich-StraÃŸe 55,7.842997,48.122959
+ Arzt Dr. Wilhelm Reutlinger ,Emmendingen Franz-Josef-Baumgartner-StraÃŸe 4,7.850344,48.117991
+ Herrenmode-Artikel Textil- und AussteuergeschÃ¤ft Emanuel Schwarz dann Benjamin Weil ,Emmendingen MarkgrafenstraÃŸe 2,7.850764,48.12015
+ TextilgeschÃ¤ft Siegfried Schwartz ,Emmendingen LammstraÃŸe 14,7.84875,48.12155
+ Metzgerei Albert Veit ,Emmendingen MarkgrafenstraÃŸe 8,7.851458,48.119839
+ Viehhandlung Arthur und Louis Veit ,Emmendingen Karl-Friedrich-StraÃŸe 32,7.84488,48.122799
+ Viehhandlung Julius Veit ,Emmendingen Karl-Friedrich-StraÃŸe 63 abgebrochen,7.842098,48.123139
+ Futtermittelhandlung Samuel Veit ,Emmendingen Mundinger StraÃŸe 13,7.843497,48.124054
+ Metzgerei Samuel Veit ,Emmendingen Karl-Friedrich-StraÃŸe 39,7.844676,48.122581
+ Viehhandlung Adolf Weil ,Emmendingen Karl-Friedrich-StraÃŸe 50,7.832429,48.126434
+ HÃ¤ute- Fell- und Rauchwaren-GroÃŸhandlung Benedikt Weil & SÃ¶hne ,Emmendingen MarkgrafenstraÃŸe 4,7.771466,48.102184
+ SchuhgeschÃ¤ft Ludwig Wolf und Zigarren-GroÃŸhandlung Emil Weil ,Emmendingen MarkgrafenstraÃŸe 45,7.853127,48.118254
+ BÃ¤ckerei Fritz Weil ,Emmendingen Karl-Friedrich-StraÃŸe 1,7.847595,48.12169
+ Aussteuer- und TextilgeschÃ¤ft Hermann E. Weil ,Emmendingen KirchstraÃŸe 9,7.849805,48.121472
+ Weinhandlung Hugo Weil ,Emmendingen Karl-Friedrich-StraÃŸe  7,7.846956,48.121831
+ MehlgroÃŸhandlung J. Weil ,Emmendingen HochburgerstraÃŸe 4,7.861722,48.117386
+ Lebensmittel-GroÃŸhandlung Max Benedikt Weil ,Emmendingen LandvogteistraÃŸe 6,7.847675,48.120885
+ Viehhandlung Adolf Samuel Weil ,Emmendingen Mundinger StraÃŸe 8,7.843767,48.123782
+ Feinkost- Wein- und Zigarrenhandlung Sophie Weinstock ,Emmendingen MarkgrafenstraÃŸe 26,7.852482,48.119239
+ Erste Badische Wein- und Edelbranntwein-Brennerei Klosterbrennerei GmbH Wertheimer & Cie. Inh. J.M. Wertheimer ,Emmendingen Klostergasse 6,7.850588,48.119969
+ Rechtsanwalt Robert Wertheimer ,Emmendingen Marktplatz 4,7.849055,48.120262
